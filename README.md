@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <hr>
-<hr>
+<hr> -->
 
 <h1 align="center"> 
     Studying <a href="https://cs.illinois.edu/">CS@UIUC</a>
 </h1>
 
-<hr>
-<hr>
+<!-- <hr>
+<hr> -->
 
 🔭 I’m currently working on [Deep Reinforcement Learning](https://github.com/Rafapia/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) as a member of the [Illini Solar Car](https://www.illinisolarcar.com/)'s Strategy Team!
 
