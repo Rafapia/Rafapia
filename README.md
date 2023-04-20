@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 <hr>
 
-<h2 align="center"> Studying Computer Science @ UIUC </h2>
+<h2 align="center"> Studying [Computer Science @ UIUC](https://cs.illinois.edu/) </h2>
 
 <hr>
 <hr>
