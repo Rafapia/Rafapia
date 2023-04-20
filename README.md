@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-🌱 I’m currently learning [Data Structures](https://courses.engr.illinois.edu/cs225/fa2021/) and [Computer Architecture](https://cs233.github.io/)
+🌱 I’m currently taking [Artificial Intelligence](https://courses.grainger.illinois.edu/ece448/sp2023/index.html), [Appplied ML](https://courses.engr.illinois.edu/cs441/sp2023/) and [NLP](https://courses.grainger.illinois.edu/cs447/sp2023/index.html)
 
 <hr>
 
